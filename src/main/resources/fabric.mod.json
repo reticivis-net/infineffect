@@ -3,7 +3,7 @@
   "id": "infineffect",
   "version": "${version}",
   "name": "Infineffect",
-  "description": "Shows the real duration of long effects instead of \"**: **\"",
+  "description": "Shows the real duration of long effects instead of \"**:**\"",
   "authors": [],
   "contact": {
     "website": "https://reticivis.net/"
